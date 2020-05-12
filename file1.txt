@@ -1,2 +1,2 @@
-this is my first line.:wq
-
+this is my first linei
+this is the second line.
